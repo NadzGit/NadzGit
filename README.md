@@ -24,6 +24,11 @@ Python screen recorder using OpenCV and NumPy for frame capture.
 Tech:
 Python, OpenCV, NumPy
 
+### Operating Systems
+- Windows
+- Linux (EndeavourOS, Ubuntu)
+- Mac
+
 ## Currently Learning
 
 - Linear Algebra for Machine Learning
@@ -31,3 +36,4 @@ Python, OpenCV, NumPy
 - React
 - Js
 - NodeJS
+
