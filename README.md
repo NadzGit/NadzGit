@@ -22,3 +22,6 @@ Python, OpenCV, NumPy
 
 - Linear Algebra for Machine Learning
 - Computer Vision fundamentals
+- React
+- Js
+- NodeJS
